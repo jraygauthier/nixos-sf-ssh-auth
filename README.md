@@ -1,6 +1,8 @@
 Readme
 ======
 
+**IMPORTANT**: Deprecated location. Moved to [nsf-ssh-auth](https://github.com/jraygauthier/nsf-ssh-auth).
+
 A set of tools to help manage and organize ssh authorizations in a declarative
 way compatible with nix / nixos.
 
